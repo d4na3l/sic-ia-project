@@ -1,4 +1,4 @@
-# Análisis de Empleabilidad de Jóvenes en Venezuela
+# Identificación de Patrones de Rendmiento y Bienestar Estudiantil (IPRBE)
 
 ## Tabla de contenidos
 
@@ -95,7 +95,7 @@ Para colaborar en este proyecto, utilizaremos **conventional commits** como guí
     - **Crear una rama nueva para la funcionalidad específica (basada en develop):** Usa un nombre descriptivo para la nueva rama. Por ejemplo, si trabajas en el análisis de empleabilidad:
 
     ```bash
-    git checkout -b feature/analisis-empleabilidad
+    git checkout -b feature/prediction-performance
     ```
 
 2. Realizar Cambios y Subirlos al Repositorio
@@ -119,7 +119,7 @@ Para colaborar en este proyecto, utilizaremos **conventional commits** como guí
     - **Enviar la rama con tus cambios al repositorio:**
 
     ```bash
-    git push origin feature/analisis-empleabilidad
+    git push origin feature/prediction-endpoint
     ```
 
 3. Abrir un Pull Request para Revisión de Cambios
